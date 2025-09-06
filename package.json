@@ -1,0 +1,13 @@
+{
+  "name": "llama-iso-ws-server",
+  "version": "1.0.2",
+  "private": true,
+  "type": "module",
+  "dependencies": {
+    "ws": "^8.18.0",
+    "nanoid": "^5.0.7"
+  },
+  "scripts": {
+    "start": "node server.js"
+  }
+}
